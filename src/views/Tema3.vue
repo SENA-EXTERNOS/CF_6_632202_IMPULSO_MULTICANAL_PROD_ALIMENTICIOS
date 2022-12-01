@@ -8,14 +8,14 @@
       h1 Comunicación
 
     .row.justify-content-center.my-5
-      .col-lg-4
+      .col-lg-4(data-aos="fade-up-right")
         img(src='@/assets/curso/temas/tema3/img1.svg', alt='')        
 
       .col-lg-8
         p Se compone por el conjunto de actividades que se llevan a cabo en una empresa con el fin de difundir información, tanto a nivel interno a sus trabajadores como a nivel externo a los clientes, consumidores y público en general. La comunicación es uno de los factores más relevantes para el impulso de los productos alimenticios; debe tener una orientación comercial cuyo propósito principal sea influenciar a los clientes reales y potenciales dentro de un mercado, y como consecuencia, mejorar su disposición para la compra de los productos o generarles una actitud positiva de recordación de la marca o producto. Es por eso que la comunicación comercial y el lenguaje para servicio al cliente requieren un sentido de análisis para la asertividad de las acciones, que favorezca la empatía, el deseo y gusto por los productos y marcas de la empresa.
 
     .row.justify-content-center.my-5
-      .col-lg-8
+      .col-lg-8.mb-3
         .hr--line
         .row
           .bloque-texto-b.color-naranja.p-4
@@ -25,13 +25,13 @@
               b.texto-derecha (Monge Mediavilla, 2016).
               i.fas.fa-quote-right
 
-      .col-lg-4
+      .col-lg-4.mt-3(data-aos="fade-up-left")
         img(src='@/assets/curso/temas/tema3/img2.svg', alt='')    
 
     separador
 
     #t_3_1    
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
       h2 3.1. Tipos de comunicación empresarial 
 
     .row.justify-content-center.my-5
@@ -143,7 +143,7 @@
     separador
 
     #t_3_2
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
       h2 3.2. Funciones de la comunicación en las empresas  
 
     .row.justify-content-center.my-5
@@ -158,7 +158,7 @@
           span #[i Funciones de la comunicación en las empresas]
 
     .row.justify-content-center.my-5
-      .col-lg-8
+      .col-lg-8(data-aos="flip-right")
         figure
           img(src='@/assets/curso/temas/tema3/img3.svg', alt='')   
 

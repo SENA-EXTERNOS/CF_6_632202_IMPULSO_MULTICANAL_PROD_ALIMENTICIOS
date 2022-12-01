@@ -11,7 +11,7 @@
       .col-lg-7
         p El servicio al cliente es el conjunto de actividades que realizan las empresas con el fin de que los clientes o consumidores puedan comprar u obtener bienes o productos de manera fácil, segura, en el momento y lugar deseados; así mismo, dentro de este conjunto están todas las acciones que se adelantan con los clientes en los procesos de compra y venta, lo que coteja varias etapas (antes, durante y después de la compra de un producto).
 
-      .col-lg-5
+      .col-lg-5(data-aos="fade-up-left")
         figure
           img(src='@/assets/curso/temas/tema2/img1.svg', alt='')        
 
@@ -23,7 +23,7 @@
     separador
 
     #t_2_1    
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
       h2 2.1. Propósito de un proceso de servicio al cliente
 
     .row.my-5
@@ -40,7 +40,7 @@
     separador
 
     #t_2_2
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
       h2 2.2. Proceso de servicio al cliente
 
     .row.justify-content-center.my-5
@@ -53,7 +53,7 @@
               p.mb-0 Un proceso de servicio al cliente consiste en determinar el conjunto de iniciativas de actividad que una empresa debe emprender para ofrecer sus productos a los clientes o consumidores con la mayor calidad, dejando la mejor experiencia y una sensación agradable, lo que denota un proceso de servicio al cliente eficiente que refuerza la imagen positiva de la empresa, conduciendo así a la fidelización del cliente.
               b.texto-derecha (Murillo Moreno, 2018)
               i.fas.fa-quote-right
-      .col-lg-4.my-3
+      .col-lg-4.my-3(data-aos="fade-up-left")
           figure
             img(src='@/assets/curso/temas/tema2/img3.svg', alt='')         
 
@@ -67,7 +67,7 @@
           span #[i Etapas del proceso de servicio al cliente]
 
     .row.justify-content-center.my-5
-      .col-lg-8
+      .col-lg-8(data-aos="zoom-in-up")
         ImagenInfograficaB.color-acento-botones
           template(v-slot:imagen)
             figure
@@ -111,7 +111,7 @@
       p Para ampliar estos conceptos de cómo organizar una empresa y el departamento de atención al cliente, se recomienda revisar el #[strong Anexo 2] - Información y atención al cliente, adjunto a este componente formativo, así como el #[strong Anexo 1] - Tipos de clientes reales y puntos de contacto.
 
     .row.justify-content-center.my-5      
-      .col-lg-10
+      .col-lg-10(data-aos="flip-up")
         .tarjeta.color-secundario.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-1

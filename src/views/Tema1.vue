@@ -20,7 +20,7 @@
     separador
 
     #t_1_1    
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
       h2 1.1. Importancia de los clientes para las empresas
 
     .row.justify-content-center.my-5
@@ -28,7 +28,7 @@
         p De conformidad al concepto de cliente, a continuación se presentan los principales aspectos que evidencian la importancia de este para las empresas:
 
     .row.justify-content-center.my-5
-      .col-lg-4.my-5
+      .col-lg-4.my-5(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema1/img2.svg', alt='')          
       .col-lg-8
@@ -51,7 +51,7 @@
     separador
 
     #t_1_2    
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
       h2 1.2. Clasificación de los clientes
 
     .row.justify-content-center.my-5
@@ -69,7 +69,7 @@
           h5 Figura 1
           span #[i Clasificación de los clientes de una empresa]
 
-      .col-lg-8.my-5
+      .col-lg-8.my-5(data-aos="zoom-in-up")
         figure
           img(src='@/assets/curso/temas/tema1/img3.svg', alt='')    
 
@@ -82,7 +82,7 @@
         .cajon.color-primario.p-3.mb-3(data-aos="fade-right")
           p Para considerar el grupo objetivo de clientes potenciales de una empresa, se debe tener un perfil definido y claro de sus características: que sea un grupo o segmento grande, que cuente con poder adquisitivo y de decisión, así como que tenga una necesidad real que, en el caso de los alimentos, llegue a ser recurrente o frecuente. Este análisis de las características que buscan las empresas de sus clientes potenciales hará atractiva la inversión para atender a dicho tipo de clientes, pues serían de largo plazo y no solo compradores ocasionales, fidelizándose en la medida que puedan satisfacer su necesidad y reciban un buen servicio inicial.
       
-      .col-lg-6
+      .col-lg-6(data-aos="fade-up")
         figure
           img(src='@/assets/curso/temas/tema1/img4.svg', alt='')   
 
@@ -90,7 +90,7 @@
       h3 Clientes efectivos o reales
 
     .row.justify-content-center.my-5      
-      .col-lg-6.my-3
+      .col-lg-6.my-3(data-aos="fade-up")
         figure
           img(src='@/assets/curso/temas/tema1/img5.svg', alt='')  
 
@@ -105,13 +105,13 @@
 
     .row.my-5
       .cajon.color-acento-botones.p-3.mb-3(data-aos="fade-right")
-        p Los clientes efectivos o reales son fundamentales para el desarrollo del diagnóstico de calidad del producto, sus mejoras y su aceptabilidad. Por su relevancia en el negocio, se contactan o convocan para realizarles preguntas y analizar sus respuestas, permitiendo su participación en el proceso diagnóstico. Por el hecho de ser clientes de la empresa y haber confiado en ella, es fundamental tener un trato cercano con ellos, mostrándoles cercanía, haciéndoles sentir que sus declaraciones favorecen el mejoramiento de los procesos, y que gracias a ellos y a su experiencia frente a los productos adquiridos, además de los problemas que hayan tenido, la empresa desarrollará iniciativas estratégicas de mejoramiento, lo que fortalecerá la fidelización para que ese cliente siga comprando los productos de la empresa. De este modo, el cliente también se sentirá respaldado por la empresa y verá satisfechas sus necesidades.Los clientes efectivos o reales son fundamentales para el desarrollo del diagnóstico de calidad del producto, sus mejoras y su aceptabilidad. Por su relevancia en el negocio, se contactan o convocan para realizarles preguntas y analizar sus respuestas, permitiendo su participación en el proceso diagnóstico. Por el hecho de ser clientes de la empresa y haber confiado en ella, es fundamental tener un trato cercano con ellos, mostrándoles cercanía, haciéndoles sentir que sus declaraciones favorecen el mejoramiento de los procesos, y que gracias a ellos y a su experiencia frente a los productos adquiridos, además de los problemas que hayan tenido, la empresa desarrollará iniciativas estratégicas de mejoramiento, lo que fortalecerá la fidelización para que ese cliente siga comprando los productos de la empresa. De este modo, el cliente también se sentirá respaldado por la empresa y verá satisfechas sus necesidades.
+        p Los clientes efectivos o reales son fundamentales para el desarrollo del diagnóstico de calidad del producto, sus mejoras y su aceptabilidad. Por su relevancia en el negocio, se contactan o convocan para realizarles preguntas y analizar sus respuestas, permitiendo su participación en el proceso diagnóstico. Por el hecho de ser clientes de la empresa y haber confiado en ella, es fundamental tener un trato cercano con ellos, mostrándoles cercanía, haciéndoles sentir que sus declaraciones favorecen el mejoramiento de los procesos, y que gracias a ellos y a su experiencia frente a los productos adquiridos, además de los problemas que hayan tenido, la empresa desarrollará iniciativas estratégicas de mejoramiento, lo que fortalecerá la fidelización para que ese cliente siga comprando los productos de la empresa. De este modo, el cliente también se sentirá respaldado por la empresa y verá satisfechas sus necesidades.
 
     .row.my-5
       p Para ampliar estos aspectos relacionados con clientes efectivos o reales y su clasificación, se le invita a consultar el #[strong Anexo 1] - Tipos de clientes reales y puntos de contacto.
 
     .row.justify-content-center.my-5      
-      .col-lg-10
+      .col-lg-10(data-aos="flip-up")
         .tarjeta.color-secundario.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-1

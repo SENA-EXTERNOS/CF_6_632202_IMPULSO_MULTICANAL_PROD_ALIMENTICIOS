@@ -11,11 +11,11 @@
       p Las empresas hoy por hoy no pueden clasificar como educadas a otras personas por una mera valoración de su estilo, o por el nivel educativo o social, pues no bastan los conocimientos técnicos de formación o los propios del cargo para ser competitivo, sino que se necesitan conocimientos sobre etiqueta y protocolo.
 
     .row.justify-content-center.my-5
-      .col-8.col-lg-2.mb-3.mt-2
+      .col-8.col-lg-2.mb-3.mt-2(data-aos="fade-up-right")
         figure
           img(src='@/assets/curso/temas/tema4/img1.svg', alt='') 
       .col-lg-10
-        .cajon.color-primario.p-3.mb-3(data-aos="fade-right")
+        .cajon.color-primario.p-3.mb-3(data-aos="fade-left")
           p Como se mencionó anteriormente, los dos conceptos de actuación que se deben poner en práctica de manera simultánea son la etiqueta y el protocolo, de tal manera que permite crear un ambiente de trabajo adecuado, de calidad y satisfacción para el cliente. (SENA, s.f.)
 
 
@@ -40,11 +40,11 @@
     separador
 
     #t_4_1
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
       h2 4.1. Parámetros para establecer etiqueta y protocolo en la empresa
 
     .row.justify-content-center.my-5
-      .col-8.col-lg-2.my-3
+      .col-8.col-lg-2.my-3(data-aos="fade-up-right")
         figure
           img(src='@/assets/curso/temas/tema4/img4.svg', alt='') 
       .col-lg-10
@@ -142,7 +142,7 @@
     separador
 
     #t_4_2
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
       h2 4.2. Componentes de los portafolios de atención y servicio al cliente
 
     .row.justify-content-center.my-5
@@ -150,11 +150,11 @@
         p En primera instancia, hay que clarificar que existirán tantos protocolos de atención como canales de comunicación o contacto con clientes exista, y cada uno tendrá un derrotero diferente para poder atender a los clientes. No obstante, existen unos aspectos que son comunes a todo protocolo, los cuales se pueden resumir de la siguiente manera:
         .cajon1.color-primario.p-3.mb-3
           p.text-center Aspectos comunes de un protocolo:
-      .col-lg-4
+      .col-lg-4(data-aos="fade-up-left")
         figure
           img(src='@/assets/curso/temas/tema4/img10.svg', alt='')
 
-    .row.justify-content-center.my-5
+    .row.justify-content-center.my-5(data-aos="flip-up")
       .tarjeta--container.row.mb-5
         .col-md.tarjeta.color-acento-contenido.p-3
           .row.justify-content-center.mb-4
@@ -254,7 +254,7 @@
       p Para ampliar los detalles de esta temática se le invita a observar el siguiente video: Protocolos de Atención y Servicio al Cliente, (https://youtu.be/9o5sUuHmB-k). Así mismo, puede consultar el #[strong Anexo 3] - Protocolos de atención y servicio, el #[strong Anexo 4] - Cartilla de etiqueta empresarial de la Cámara de Comercio de Bogotá y el #[strong Anexo 5] - Etiqueta y protocolo empresarial - SENA, adjuntos a este componente.
 
     .row.justify-content-center.my-5      
-      .col-lg-10
+      .col-lg-10(data-aos="flip-down")
         .tarjeta.color-secundario.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-1
@@ -270,7 +270,7 @@
                     i.fas.fa-file-download
 
     .row.justify-content-center.my-5      
-      .col-lg-10
+      .col-lg-10(data-aos="flip-down")
         .tarjeta.color-secundario.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-1
@@ -286,7 +286,7 @@
                     i.fas.fa-file-download
 
     .row.justify-content-center     
-      .col-lg-10
+      .col-lg-10(data-aos="flip-down")
         .tarjeta.color-secundario.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-1
