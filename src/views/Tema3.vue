@@ -32,7 +32,7 @@
 
     #t_3_1    
     .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 3.1. Tipos de comunicación empresarial 
+      h2 3.1 Tipos de comunicación empresarial 
 
     .row.justify-content-center.my-5
       .col-lg-8
@@ -144,7 +144,7 @@
 
     #t_3_2
     .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 3.2. Funciones de la comunicación en las empresas  
+      h2 3.2 Funciones de la comunicación en las empresas  
 
     .row.justify-content-center.my-5
       .col-lg-10

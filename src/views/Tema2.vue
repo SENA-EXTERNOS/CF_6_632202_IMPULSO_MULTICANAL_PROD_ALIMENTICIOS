@@ -24,7 +24,7 @@
 
     #t_2_1    
     .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 2.1. Propósito de un proceso de servicio al cliente
+      h2 2.1 Propósito de un proceso de servicio al cliente
 
     .row.my-5
       p El propósito de un proceso de servicio al cliente es favorecer la percepción y satisfacción de los consumidores o clientes, a fin de lograr o consolidar la fidelización de los clientes reales (compradores efectivos), además de ganar nuevos clientes o consumidores (clientes potenciales).     
@@ -41,7 +41,7 @@
 
     #t_2_2
     .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 2.2. Proceso de servicio al cliente
+      h2 2.2 Proceso de servicio al cliente
 
     .row.justify-content-center.my-5
       .col-lg-8

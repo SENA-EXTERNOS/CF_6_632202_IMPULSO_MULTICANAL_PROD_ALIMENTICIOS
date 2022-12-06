@@ -21,7 +21,7 @@
 
     #t_1_1    
     .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 1.1. Importancia de los clientes para las empresas
+      h2 1.1 Importancia de los clientes para las empresas
 
     .row.justify-content-center.my-5
       .col-lg-10
@@ -52,7 +52,7 @@
 
     #t_1_2    
     .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 1.2. Clasificación de los clientes
+      h2 1.2 Clasificación de los clientes
 
     .row.justify-content-center.my-5
       .col-lg-10

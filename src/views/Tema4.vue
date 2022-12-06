@@ -32,7 +32,7 @@
         .tarjeta.color-acento-contenido--borde.p-4(titulo="Protocolo")
           .row.justify-content-center
             .col-lg-7.mb-3
-              p Es un conjunto de procedimientos básicos de comportamiento, de expresiones de cortesía, información, buenas prácticas y buena educación en general que los empleados deben exponer ante situaciones determinadas. Describe los aspectos que debe tener el empleado en situaciones específicas, como la comunicación verbal, los gestos, forma de entonación, etc. 
+              p Es el proceso secuencial de actividades operativas en el ejercicio de relaciones públicas o sociales de la empresa, desarrolladas por empleados y directivos en un ejercicio lógico de orden que denota efectividad, mejoramiento, solución de problemas, satisfacción al cliente, entre otros.  Dichas actuaciones y su ordenamiento conforman las normas de cumplimiento protocolario, ayudando a mejorar los resultados y homogeneizando las interacciones, sin que estas dependan de las personas y sus estilos personales; por ende, las prácticas protocolarias sirven para la actividad comercial y de ventas, aportando a la capacidad competitiva empresarial.
             .col-10.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema4/img3.svg', alt='') 
@@ -41,7 +41,7 @@
 
     #t_4_1
     .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 4.1. Parámetros para establecer etiqueta y protocolo en la empresa
+      h2 4.1 Parámetros para establecer etiqueta y protocolo en la empresa
 
     .row.justify-content-center.my-5
       .col-8.col-lg-2.my-3(data-aos="fade-up-right")
@@ -143,7 +143,7 @@
 
     #t_4_2
     .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 4.2. Componentes de los portafolios de atención y servicio al cliente
+      h2 4.2 Componentes de los portafolios de atención y servicio al cliente
 
     .row.justify-content-center.my-5
       .col-lg-8
@@ -243,7 +243,7 @@
         ul.lista-ul--color.ps-5
           li 
             i.fas.fa-check.color-vineta2
-            | Tono de voz amable.          
+            | Actitud amable.       
           li 
             i.fas.fa-check.color-vineta2
             | Pasos obligatorios: preguntar si requiere algo más y despedirse.
