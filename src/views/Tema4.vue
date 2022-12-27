@@ -8,7 +8,7 @@
       h1 Etiqueta y protocolo empresarial
 
     .row.my-5
-      p Las empresas hoy por hoy no pueden clasificar como educadas a otras personas por una mera valoración de su estilo, o por el nivel educativo o social, pues no bastan los conocimientos técnicos de formación o los propios del cargo para ser competitivo, sino que se necesitan conocimientos sobre etiqueta y protocolo.
+      p Las empresas, hoy por hoy, no pueden clasificar como educadas a otras personas por una mera valoración de su estilo o por el nivel educativo o social, pues no bastan los conocimientos técnicos de formación o los propios del cargo para ser competitivo, sino que se necesitan conocimientos sobre etiqueta y protocolo.
 
     .row.justify-content-center.my-5
       .col-8.col-lg-2.mb-3.mt-2(data-aos="fade-up-right")
@@ -16,7 +16,11 @@
           img(src='@/assets/curso/temas/tema4/img1.svg', alt='') 
       .col-lg-10
         .cajon.color-primario.p-3.mb-3(data-aos="fade-left")
-          p Como se mencionó anteriormente, los dos conceptos de actuación que se deben poner en práctica de manera simultánea son la etiqueta y el protocolo, de tal manera que permite crear un ambiente de trabajo adecuado, de calidad y satisfacción para el cliente. (SENA, s.f.)
+          p Los dos conceptos de actuación que se deben poner en práctica de manera simultánea son 
+            b la etiqueta 
+            | y 
+            b el protocolo
+            | , de tal manera que permite crear un ambiente de trabajo adecuado, de calidad y satisfacción para el cliente.
 
 
     .row.justify-content-center.my-5
@@ -41,7 +45,7 @@
 
     #t_4_1
     .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 4.1 Parámetros para establecer etiqueta y protocolo en la empresa
+      h2 4.1 Parámetros para establecer etiqueta y protocolo
 
     .row.justify-content-center.my-5
       .col-8.col-lg-2.my-3(data-aos="fade-up-right")
@@ -51,7 +55,7 @@
         p En cuanto a la etiqueta en la empresa, esta consiste en definir una especie de código no escrito que los empleados deben seguir, que expresa las buenas maneras dentro del lugar de trabajo para el desarrollo de funciones, el trato y disposición para los clientes o consumidores. La etiqueta describe el tipo de comportamiento que se debe tener, como los buenos modales y la cortesía, así como la disposición de recursos para el desarrollo de las labores, como es el caso de la tecnología, salas de reuniones, personal de asistencia, entre otros.
 
     .row.my-5
-      p Es importante conocer qué tipo de contexto de relacionamiento se tiene en la empresa para poder establecer el tipo de etiqueta, y por ende el protocolo a seguir.
+      p Es importante conocer qué tipo de contexto de relacionamiento se tiene en la empresa para poder establecer el tipo de etiqueta y, por ende, el protocolo a seguir.
 
     .row.my-5
       h4 Tipos de etiqueta en las empresas: 
@@ -190,10 +194,12 @@
                 img(src='@/assets/curso/temas/tema4/img14.svg', alt='')
             
           h2.text-center Las actitudes 
-          p.mt-5.text-center El comportamiento de los trabajadores.
+          p.mt-5.text-center Se trata del comportamiento de los trabajadores y de todo el personal de la empresa.
 
     .row.my-5
-      p A continuación, se presenta un ejemplo de protocolo de atención por canal telefónico:
+      p Analice cuidadosamente el 
+        b ejemplo de protocolo de atención por canal telefónico
+        | , que se muestra enseguida:
 
     .row.my-5
       .tarjeta--cafe.p-4
@@ -251,7 +257,15 @@
         p.ps-4 #[i Sr. Sra. YYY, … Recuerde que le habló XXX de la empresa XYZ. ¡Qué tenga un buen día…!]
 
     .row.my-5
-      p Para ampliar los detalles de esta temática se le invita a observar el siguiente video: Protocolos de Atención y Servicio al Cliente, (https://youtu.be/9o5sUuHmB-k). Así mismo, puede consultar el #[strong Anexo 3] - Protocolos de atención y servicio, el #[strong Anexo 4] - Cartilla de etiqueta empresarial de la Cámara de Comercio de Bogotá y el #[strong Anexo 5] - Etiqueta y protocolo empresarial - SENA, adjuntos a este componente.
+      p Amplíe su conocimiento sobre Protocolos de atención y servicio al cliente, visualizando con atención el video: 
+        a(href="https://youtu.be/9o5sUuHmB-k", target="_blank") Protocolos de Atención y Servicio al Cliente. 
+      p Así mismo, haga lectura del Anexo 3 - 
+        b Protocolos de atención y servicio
+        | , el Anexo 4 - 
+        b Cartilla de etiqueta empresarial de la Cámara de Comercio de Bogotá 
+        | y del Anexo 5 - 
+        b Etiqueta y protocolo empresarial - SENA
+        | , adjuntos a este componente.
 
     .row.justify-content-center.my-5      
       .col-lg-10(data-aos="flip-down")

@@ -24,7 +24,7 @@
 
     #t_2_1    
     .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 2.1 Propósito de un proceso de servicio al cliente
+      h2 2.1 ¿Para qué el servicio al cliente?
 
     .row.my-5
       p El propósito de un proceso de servicio al cliente es favorecer la percepción y satisfacción de los consumidores o clientes, a fin de lograr o consolidar la fidelización de los clientes reales (compradores efectivos), además de ganar nuevos clientes o consumidores (clientes potenciales).     
@@ -35,13 +35,14 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img2.svg')})`}"
         )(data-aos="fade-right")
         .bloque-texto-g__texto.p-3(data-aos="fade-left")
-          p.mb-0 Contar con un buen proceso de atención al cliente es fundamental, pues, independientemente de que el producto sea o no de muy buena calidad, un buen servicio deja sensaciones complementarias que pueden ser positivas o negativas, a las cuales se les denomina momentos de verdad. De ser negativas estas sensaciones, las ventas, no solo transaccionales sino de todo tipo, pueden verse perjudicadas al ser este un multiplicador de malas experiencias. Por esta razón, en el proceso de servicio al cliente es importante proporcionar los canales de comunicación apropiados y necesarios para el intercambio de información entre los compradores, los consumidores y la empresa, siempre en una actitud de disposición favorable hacia el cliente, con el fin de solventar durante el proceso de compra cualquier inconveniente y responder a posibles inquietudes.
+          p Contar con un buen proceso de atención al cliente es fundamental pues, independientemente de que el producto sea o no de muy buena calidad, un buen servicio deja sensaciones complementarias que pueden ser positivas o negativas, a las cuales se les denomina momentos de verdad. 
+          p.mb-0 De ser negativas estas sensaciones, las ventas transaccionales y de todo tipo pueden verse perjudicadas al ser este un multiplicador de malas experiencias. Por esta razón, en el proceso de servicio al cliente se deben proporcionar los canales de comunicación apropiados y necesarios para el intercambio de información entre los compradores, los consumidores y la empresa; siempre en una actitud de disposición favorable hacia el cliente con el fin de solventar, durante el proceso de compra, cualquier inconveniente y responder a posibles inquietudes.
  
     separador
 
     #t_2_2
     .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 2.2 Proceso de servicio al cliente
+      h2 2.2 El proceso del servicio al cliente
 
     .row.justify-content-center.my-5
       .col-lg-8
@@ -50,8 +51,8 @@
           .bloque-texto-b.color-naranja.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              p.mb-0 Un proceso de servicio al cliente consiste en determinar el conjunto de iniciativas de actividad que una empresa debe emprender para ofrecer sus productos a los clientes o consumidores con la mayor calidad, dejando la mejor experiencia y una sensación agradable, lo que denota un proceso de servicio al cliente eficiente que refuerza la imagen positiva de la empresa, conduciendo así a la fidelización del cliente.
-              b.texto-derecha (Murillo Moreno, 2018)
+              p.mb-0 Un proceso de servicio al cliente consiste en determinar el conjunto de iniciativas de actividad que una empresa debe emprender para ofrecer sus productos a los clientes o consumidores con la mayor calidad, dejando la mejor experiencia y una sensación agradable, lo que denota un proceso de servicio al cliente eficiente que refuerza la imagen positiva de la empresa, conduciendo así a la fidelización del cliente. 
+              b.texto-derecha (Murillo, 2018).
               i.fas.fa-quote-right
       .col-lg-4.my-3(data-aos="fade-up-left")
           figure
@@ -75,7 +76,7 @@
 
           div(x="51%" y="33%" tooltip="" numero="1")
             h5 Recepción del cliente
-            p Es el primer contacto que tiene la empresa con el cliente o consumidor, donde, en consonancia con un momento de verdad positivo gracias a una buena actitud y trato, se debe escuchar al cliente con el fin de capturar la PQRS, en caso de que la hubiera. Para esto los empleados de primer contacto deben tener un protocolo de comunicación e interlocución, asegurando un trato respetuoso, objetivo y rápido, haciendo las preguntas pertinentes para que el cliente se sienta atendido y pueda clarificar su inquietud, con el mejor de los resultados posibles.
+            p Es el primer contacto que tiene la empresa con el cliente o consumidor donde, en consonancia con un momento de verdad positivo, gracias a una buena actitud y trato, se debe escuchar al cliente con el fin de capturar la PQRS, en caso de que la hubiera. Para esto los empleados de primer contacto deben tener un protocolo de comunicación e interlocución, asegurando un trato respetuoso, objetivo y rápido, haciendo las preguntas pertinentes para que el cliente se sienta atendido y pueda clarificar su inquietud, con el mejor de los resultados posibles.
 
           div(x="73%" y="45%" tooltip="" numero="2")
             h5 Realizar la venta
@@ -87,14 +88,14 @@
 
           div(x="27%" y="87%" tooltip="" numero="4")
             h5 Servicio posventa
-            p Es la etapa donde el producto llega a manos del cliente, y es el cierre del proceso de distribución logística; sin embargo, se debe tener en cuenta que, luego de la entrega del producto, el cliente puede devolverlo o solicitar un cambio de encontrar alguna anomalía en las cantidades, el estado del producto, la vida útil, entre otros aspectos. En esta etapa es muy importante aplicar encuestas a los clientes para identificar los niveles de satisfacción frente al servicio, y por ende del producto entregado.
+            p Es la etapa donde el producto llega a manos del cliente, y es el cierre del proceso de distribución logística; sin embargo, se debe tener en cuenta que, luego de la entrega del producto, el cliente puede devolverlo o solicitar un cambio, si encuentra alguna anomalía en las cantidades, el estado del producto, la vida útil, entre otros aspectos. En esta etapa es muy importante aplicar encuestas a los clientes para identificar los niveles de satisfacción frente al servicio y, por ende, del producto entregado.
 
           div(x="27%" y="45%" tooltip="" numero="5")
             h5 Registro y análisis de PQRS
             p La empresa debe llevar un registro de las PQRS (preguntas, quejas, reclamos o solicitudes) de los consumidores, pues esta información le será útil para identificar los motivos y frecuencia de estas. En el caso de que se reciban preguntas, por ejemplo, la empresa debe mejorar sus comunicaciones en detalles descriptivos o ampliar canales; si se trata de reclamaciones, es necesario identificar sus motivos, que suelen ser la calidad del producto, oportunidad, mala facturación, etc. Estos registros y análisis sirven de base para el desarrollo de mejoras en los procesos, incluso si son solicitudes y particularidades, ya que son útiles para analizar las necesidades específicas de los clientes o consumidores. 
 
     .row.my-5
-      h4 Puntos de contacto en el proceso de servicio y atención al cliente
+      h4 Puntos de contacto en el servicio y atención al cliente
 
     .row.justify-content-center.my-5
       .col-lg-8

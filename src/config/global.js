@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Clientes y servicio empresarial',
     descripcionCurso:
-      'En este componente formativo se desarrollarán los aspectos relacionados con los clientes, cómo se clasifican, qué es la atención al cliente y cómo es un protocolo de servicios eficiente. También se observará la importancia del buen manejo de las comunicaciones, con el fin de que las empresas generen protocolos de atención inclusivos para todo tipo de clientes potenciales.',
+      'Este componente formativo abordará aspectos relacionados con los clientes, su clasificación, la atención al cliente y los protocolos de servicios eficientes. También se estudiará sobre la importancia del buen manejo de las comunicaciones con el fin de que las empresas generen protocolos de atención inclusivos para todo tipo de clientes potenciales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -37,22 +37,8 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Clientes',
+        titulo: 'Clientes: su importancia y clasificación',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Importancia de los clientes para las empresas',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Clasificación de los clientes',
-            hash: 't_1_2',
-          },
-        ],
       },
 
       {
@@ -65,13 +51,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Propósito de un proceso de servicio al cliente',
+            titulo: '¿Para qué el servicio al cliente?',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Proceso de servicio al cliente',
+            titulo: 'El proceso del servicio al cliente',
             hash: 't_2_2',
           },
         ],
@@ -107,8 +93,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.1',
-            titulo:
-              'Parámetros para establecer etiqueta y protocolo en la empresa',
+            titulo: 'Parámetros para establecer etiqueta y protocolo',
             hash: 't_4_1',
           },
           {

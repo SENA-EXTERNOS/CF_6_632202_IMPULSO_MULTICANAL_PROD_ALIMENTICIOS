@@ -46,7 +46,7 @@
               i.fas.fa-quote-right
 
     .row.my-5
-      p A continuación, se presentan los dos tipos de comunicación dentro de un plan operativo y comercial empresarial:
+      p Estos son los tipos de comunicación dentro de un plan operativo y comercial empresarial:
 
     .row.justify-content-center.my-5
       .tarjeta.tarjeta--cafe.p-4
@@ -54,7 +54,7 @@
           .row
             h4 1.	Comunicación interna
             p Este tipo de comunicación debe contemplar diversos canales y mecanismos para facilitar el entendimiento y coordinar las actividades de las diferentes áreas funcionales, en pro del desarrollo de su actividad de elaboración y fabricación de productos, ejercicio que desarrollan los trabajadores que conforman la empresa. Por tal motivo, su comunicación debe ser dinámica, a través de mecanismos ágiles que integren los niveles directivos, mandos medios y los trabajadores generales, así como entre áreas y compañeros del mismo nivel jerárquico.
-            p Este tipo de comunicación interna es limitada, de tal manera que no sale a la luz en su totalidad sino que solo se dispone, manteniendo ciertos niveles de confidencialidad. Su objetivo principal es servir para organizar y mejorar los procesos y la coordinación entre áreas, favorecer la actualización y conocimiento de los directivos y de los trabajadores, así como consolidar la identidad empresarial y alinear las actividades para el desarrollo de las iniciativas empresariales a través de la participación.
+            p Este tipo de comunicación interna es limitada, de tal manera que no sale a la luz en su totalidad, sino que solo se dispone manteniendo ciertos niveles de confidencialidad. Su objetivo principal es servir para organizar y mejorar los procesos y la coordinación entre áreas, favorecer la actualización y conocimiento de los directivos y de los trabajadores, así como consolidar la identidad empresarial y alinear las actividades para el desarrollo de las iniciativas empresariales a través de la participación.
 
           .row
             h4 Comportamiento de la comunicación interna:
@@ -163,7 +163,7 @@
           img(src='@/assets/curso/temas/tema3/img3.svg', alt='')   
 
     .row.my-5
-      p En el siguiente video se ampliará sobre cada uno de los aspectos que permiten favorecer la gestión y las funciones de la comunicación en la empresa:
+      p El video que se muestra enseguida, amplía aspectos clave de la gestión y las funciones de la comunicación en la empresa:
 
     .row.my-5(data-aos="fade-zoom")
       figure
