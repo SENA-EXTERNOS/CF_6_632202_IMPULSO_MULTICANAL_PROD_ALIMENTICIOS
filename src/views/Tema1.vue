@@ -50,8 +50,8 @@
       .col-lg-10
         .cajon.color-primario.p-3.mb-3(data-aos="fade-right")
           p La variedad de clientes con los que cuenta una empresa o los que puede captar para que lo sean, es muy amplia. Ello obliga a buscar y desarrollar productos y servicios ajustados a las necesidades de dichos clientes. Al mismo tiempo, la obliga a aplicar una experiencia de servicio distinta y, por supuesto, una estrategia de 
-          em marketing 
-          | diversa. Una forma básica de empezar a clasificar a los clientes de una empresa puede iniciar por identificar clientes potenciales y clientes actuales.
+            em marketing 
+            | diversa. Una forma básica de empezar a clasificar a los clientes de una empresa puede iniciar por identificar clientes potenciales y clientes actuales.
 
     .row.justify-content-center.my-5
       .col-lg-8
@@ -93,9 +93,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img6.svg', alt='')  
 
-    .row.my-5
-      .col-lg-6
-        p Este indicador establece el nivel de recordación o la intencionalidad de compra para un cliente real o potencial.
+    p Este indicador establece el nivel de recordación o la intencionalidad de compra para un cliente real o potencial.
 
     .row.my-5
       .cajon.color-acento-botones.p-3.mb-3(data-aos="fade-right")

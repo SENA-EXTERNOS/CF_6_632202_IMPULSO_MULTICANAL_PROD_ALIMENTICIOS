@@ -148,30 +148,30 @@ export default {
   },
   complementario: [
     {
-      tema: 'Procesos de atención al cliente/ consumidor/ usuario',
+      tema: 'Atención y servicio al cliente',
       referencia:
-        'Ariza Ramírez, F. J. y Ariza Ramírez, J.M. (s.f.) <i>Organización de la atención al cliente,</i> Ed. McGraw Hill Educación.',
+        'Ariza Ramírez, F. J. y Ariza Ramírez, J. M. (s.f.) <em>Organización de la atención al cliente</em>. Ed. McGraw Hill Educación.',
       tipo: 'Libro',
       link: 'https://www.mheducation.es/bcv/guide/capitulo/8448196813.pdf',
     },
     {
-      tema: 'Protocolos de atención',
+      tema: 'Atención y servicio al cliente',
       referencia:
-        'Wellnes & Sport Consulting. (2019). <i>Manual De Atención Al Cliente y del Proceso De Ventas.</i> (S. Ed.)',
+        'Wellnes & Sport Consulting. (2019). <em>Manual De Atención Al Cliente y del Proceso De Ventas</em>. ',
       tipo: 'Artículo',
       link: 'https://www.wscconsulting.net/calendario/manualdeventas.pdf',
     },
     {
-      tema: 'Proceso de atención y servicio al cliente',
+      tema: 'Atención y servicio al cliente',
       referencia:
-        'Ecosistema de Recursos Digitales SENA. (2022).  <i>Proceso de atención y servicio al cliente.</i> [Video]. YouTube. ',
+        'Ecosistema de Recursos Digitales SENA. (2022).  <em>Proceso de atención y servicio al cliente</em>.',
       tipo: 'Video',
       link: 'https://youtu.be/MjYTz9vzCFw',
     },
     {
-      tema: 'Servicio al cliente',
+      tema: 'Atención y servicio al cliente',
       referencia:
-        'Ecosistema de Recursos Digitales SENA. (2020).  <i>Servicio al cliente.</i> [Video]. YouTube. ',
+        'Ecosistema de Recursos Digitales SENA. (2020).  <em>Servicio al cliente</em>.',
       tipo: 'Video',
       link: 'https://youtu.be/dB6FOVF-wWs',
     },
@@ -246,74 +246,74 @@ export default {
   referencias: [
     {
       referencia:
-        'Acosta, A. L. (2017). <i>Canales de Distribución.</i> Bogotá: Fondo editorial Areandino. ',
+        'Acosta, A. L. (2017). <em>Canales de Distribución</em>. Fondo editorial Areandino.',
       link: 'https://core.ac.uk/download/pdf/326423549.pdf',
     },
     {
       referencia:
-        'Cruz Roche, I. (2013). <i>Canales de distribución. Especial Referencia a los productos de alimentación.</i> Pirámide. ',
+        'Cruz Roche, I. (2013). <em>Canales de distribución. Especial Referencia a los productos de alimentación</em>. Pirámide.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/48995?page=6',
     },
     {
       referencia:
-        'Juan Vigaray, M. (2010). <i>COMERCIALIZACIÓN Y RETAILING- DISTRIBUCIÓN COMERCIAL APLICADA.</i> Madrid: PEARSON. ',
+        'Juan Vigaray, M. (2010). <em>COMERCIALIZACIÓN Y RETAILING- DISTRIBUCIÓN COMERCIAL APLICADA</em>. PEARSON.',
       link:
         'https://www.ecotec.edu.ec/material/material_2016F1_MKT360_11_63978.pdf',
     },
     {
       referencia:
-        'Edix. (2022). <i>Canales de venta: vender más y mejor.</i> Edix- Grupo Proeduca. ',
-      link: 'https://www.edix.com/es/revolucion-profesional/',
+        'Edix. (2022). <em>Canales de venta: vender más y mejor</em>. Edix- Grupo Proeduca.',
+      link: 'https://www.edix.com/es/revolucion-profesional/ ',
     },
     {
       referencia:
-        'Iciar Astiasarán, A., & Hernández, A. (2013). <i>ALIMENTOS- Composición y Propiedades.</i> McGraw-Hill. ',
+        'Iciar Astiasarán, A., & Hernández, A. (2013). <em>ALIMENTOS- Composición y Propiedades</em>. McGraw-Hill.',
       link:
         'https://fisiogenomica.com/assets/Blog/pdf/Alimentos-Composicion-y-Propiedades.pdf',
     },
     {
       referencia:
-        'Fernández Torres, M. (2020). <i>Atención al cliente, Consumidor y Usuario.</i> Editorial Síntesis. ',
+        'Fernández Torres, M. (2020). <em>Atención al cliente, Consumidor y Usuario</em>. Editorial Síntesis.',
       link: 'https://www.sintesis.com/data/indices/9788413570006.pdf',
     },
     {
       referencia:
-        'Monge Mediavilla, B. (2016). <i>Comunicación y Atención al Cliente.</i> Ed. Educalia.',
+        'Monge Mediavilla, B. (2016). <em>Comunicación y Atención al Cliente</em>. Ed. Educalia.',
       link:
         'https://www.e-ducalia.com/archivo/muestra-comunicacion-at-cliente-pdf.PDF',
     },
     {
       referencia:
-        'Murillo Moreno, L. (2018). <i>Fundamentos de Servicio al Cliente.</i> Fundación Universitaria del Área Andina. ',
+        'Murillo Moreno, L. (2018). <em>Fundamentos de Servicio al Cliente</em>. Fundación Universitaria del Área Andina.',
       link:
         'https://digitk.areandina.edu.co/bitstream/handle/areandina/3523/93%20FUNDAMENTOS%20DE%20SERVICIO%20AL%20CLIENTE.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
-        'Paz, H. R. (2010). <i>Canales de Distribución: gestión comercial y logística.</i> Lectorum- Ugerman.',
+        'Paz, H. R. (2010). <em>Canales de Distribución: gestión comercial y logística</em>. Lectorum- Ugerman.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/76765?page=6',
     },
     {
-      referencia: 'SENA. (s.f.). ETIQUETA Y PROTOCOLO EMPRESARIAL. ',
+      referencia: 'SENA. (s.f.). <em>ETIQUETA Y PROTOCOLO EMPRESARIAL</em>.',
       link: 'https://www.webcolegios.com/file/9e9d6d.pdf',
     },
     {
       referencia:
-        'Universidad Manuela Beltrán, V. (s.f.). SERVICIO AL CLIENTE. ',
+        'Universidad Manuela Beltrán, V. (s.f.). <em>SERVICIO AL CLIENTE</em>.',
       link:
         'http://virtualnet2.umb.edu.co/virtualnet/archivos/open.php/1037/Contenido_Modulo_II_Servicio_al_cliente.pdf',
     },
     {
       referencia:
-        'Velázquez Velázquez, E. (2012). <i>Canales de distribución y logística.</i> Editorial: RED TERCER MILENIO S.C. ',
+        'Velázquez Velázquez, E. (2012). <em>Canales de distribución y logística</em>. Editorial: RED TERCER MILENIO S.C.',
       link:
         'https://www.academia.edu/8867648/Canales_de_distribucion_y_logistica',
     },
     {
       referencia:
-        'Vizcaíno, A. y Sepúlveda, I. (2018). <i>Servicio al cliente e integración del marketing mix de servicios.</i> Centro Universitario de Ciencias Económico Administrativas- Universidad de Guadalajara. ',
+        'Vizcaíno, A. y Sepúlveda, I. (2018). <em>Servicio al cliente e integración del marketing mix de servicios</em>. Centro Universitario de Ciencias Económico Administrativas- Universidad de Guadalajara.',
       link:
         'https://www.cucea.udg.mx/sites/default/files/documentos/adjuntos_pagina/servicio_al_cliente_e_integracion_del_marketing_mix_de_servicios.pdf',
     },

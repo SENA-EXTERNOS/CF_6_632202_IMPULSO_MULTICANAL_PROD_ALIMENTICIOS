@@ -36,6 +36,8 @@
         )(data-aos="fade-right")
         .bloque-texto-g__texto.p-3(data-aos="fade-left")
           p Contar con un buen proceso de atención al cliente es fundamental pues, independientemente de que el producto sea o no de muy buena calidad, un buen servicio deja sensaciones complementarias que pueden ser positivas o negativas, a las cuales se les denomina momentos de verdad. 
+          br
+          br
           p.mb-0 De ser negativas estas sensaciones, las ventas transaccionales y de todo tipo pueden verse perjudicadas al ser este un multiplicador de malas experiencias. Por esta razón, en el proceso de servicio al cliente se deben proporcionar los canales de comunicación apropiados y necesarios para el intercambio de información entre los compradores, los consumidores y la empresa; siempre en una actitud de disposición favorable hacia el cliente con el fin de solventar, durante el proceso de compra, cualquier inconveniente y responder a posibles inquietudes.
  
     separador

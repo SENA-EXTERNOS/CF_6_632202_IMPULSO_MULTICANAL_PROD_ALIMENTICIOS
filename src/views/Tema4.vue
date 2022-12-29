@@ -260,11 +260,14 @@
       p Amplíe su conocimiento sobre Protocolos de atención y servicio al cliente, visualizando con atención el video: 
         a(href="https://youtu.be/9o5sUuHmB-k", target="_blank") Protocolos de Atención y Servicio al Cliente. 
       p Así mismo, haga lectura del Anexo 3 - 
-        b Protocolos de atención y servicio
+        a(:href="obtenerLink('/downloads/anexo-3--protocolos_de_atención_y_servicio.pdf')" target="_blank") 
+          b Protocolos de atención y servicio
         | , el Anexo 4 - 
-        b Cartilla de etiqueta empresarial de la Cámara de Comercio de Bogotá 
+        a(:href="obtenerLink('/downloads/anexo-4--cartilla_de_etiqueta_empresarial_de_la_cámara_de_Comercio_de-bogotá.pdf')" target="_blank") 
+          b Cartilla de etiqueta empresarial de la Cámara de Comercio de Bogotá 
         | y del Anexo 5 - 
-        b Etiqueta y protocolo empresarial - SENA
+        a(:href="obtenerLink('/downloads/anexo-5--etiqueta_y_protocolo_empresarial--sena.pdf')" target="_blank") 
+          b Etiqueta y protocolo empresarial - SENA
         | , adjuntos a este componente.
 
     .row.justify-content-center.my-5      
