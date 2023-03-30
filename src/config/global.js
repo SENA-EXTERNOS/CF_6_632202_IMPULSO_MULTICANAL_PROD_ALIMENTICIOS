@@ -257,12 +257,6 @@ export default {
     },
     {
       referencia:
-        'Juan Vigaray, M. (2010). <em>COMERCIALIZACIÓN Y RETAILING- DISTRIBUCIÓN COMERCIAL APLICADA</em>. PEARSON.',
-      link:
-        'https://www.ecotec.edu.ec/material/material_2016F1_MKT360_11_63978.pdf',
-    },
-    {
-      referencia:
         'Edix. (2022). <em>Canales de venta: vender más y mejor</em>. Edix- Grupo Proeduca.',
       link: 'https://www.edix.com/es/revolucion-profesional/ ',
     },
