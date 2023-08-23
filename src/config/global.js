@@ -150,7 +150,7 @@ export default {
     {
       tema: 'Atención y servicio al cliente',
       referencia:
-        'Ariza Ramírez, F. J. y Ariza Ramírez, J. M. (s.f.) <em>Organización de la atención al cliente</em>. Ed. McGraw Hill Educación.',
+        'Ariza Ramírez, F. J. y Ariza Ramírez, J. M. (s.f.) <em>Información y  atención al cliente.</em> Ed. McGraw Hill Educación.',
       tipo: 'Libro',
       link: 'https://www.mheducation.es/bcv/guide/capitulo/8448196813.pdf',
     },
@@ -183,12 +183,12 @@ export default {
         'es un producto de origen natural o artificial que se dispone con el propósito de ser consumido para aportar al cuerpo humano nutrientes y/o energía. Es también un objeto de distribución y comercialización.',
     },
     {
-      termino: 'Atención al cliente:',
+      termino: 'Atención al cliente',
       significado:
         'es el conjunto de acciones que desarrollan los operadores que tienen contacto con los clientes o canalizan sus preguntas o solicitudes, con el fin de suplir sus necesidades. Actividad enmarcada dentro de lo que se denomina protocolo.',
     },
     {
-      termino: 'Canal propio o directo:',
+      termino: 'Canal propio o directo',
       significado:
         'es cuando la empresa se encarga de hacer llegar sus productos al consumidor final sin intermediarios, aplicando medios físicos convencionales o medios digitales.',
     },
@@ -198,12 +198,12 @@ export default {
         'son aquellos clientes que responden a las iniciativas comerciales y de comunicación de la empresa, lo que expresan por medio de las compras.',
     },
     {
-      termino: 'Clientes potenciales:',
+      termino: 'Clientes potenciales',
       significado:
         'son el conjunto de posibles consumidores de los productos de la empresa que aún no se deciden a comprar; también son los clientes que están insatisfechos con los productos de la competencia.',
     },
     {
-      termino: 'Comunicación externa:',
+      termino: 'Comunicación externa',
       significado:
         'son el conjunto de mensajes de información comercial para el impulso de productos, los cuales la empresa diseña y promueve según el tipo de cliente real o potencial.',
     },
@@ -213,12 +213,12 @@ export default {
         'es la función de poner el producto a disposición del cliente en el lugar, las cantidades y el momento requerido.',
     },
     {
-      termino: '<i>E-mail marketing:</i>',
+      termino: '<i>E-mail marketing</i>',
       significado:
         'canal digital que busca enviar correos electrónicos a bases de datos de contactos de clientes o prospectos, con el fin de obtener nuevos consumidores; se usa también para fidelizar a los clientes ya existentes.',
     },
     {
-      termino: 'Etiqueta empresarial:',
+      termino: 'Etiqueta empresarial',
       significado:
         'son el conjunto de buenas maneras que debe tenerse para la atención al cliente y el desarrollo del trabajo, que parte de la apatía, expresiones educadas, el tono y la manera de vestir. Se complementa con el protocolo para generar procesos de servicio al cliente efectivos.',
     },
@@ -228,7 +228,7 @@ export default {
         'son canales de comunicación externa a la empresa que inducen a interconectar comunidades de individuos y clientes de las empresas con fines de promover el consumo, facilitar las ventas y generar posicionamiento y recordación de los productos y sus marcas.',
     },
     {
-      termino: 'Momento de verdad:',
+      termino: 'Momento de verdad',
       significado:
         'es un encuentro que tienen los clientes con la empresa, el cual puede ser directo, indirecto, personal o por medio de canales digitales, donde se genera una sensación positiva o negativa conforme a si se resuelve o no su necesidad.',
     },
@@ -257,8 +257,8 @@ export default {
     },
     {
       referencia:
-        'Edix. (2022). <em>Canales de venta: vender más y mejor</em>. Edix- Grupo Proeduca.',
-      link: 'https://www.edix.com/es/revolucion-profesional/ ',
+        'David Torres. (2022). Canales de venta: qué son, sus tipos, cómo gestionarlos y ejemplos. Hubspot.',
+      link: 'https://blog.hubspot.es/sales/canales-de-venta',
     },
     {
       referencia:

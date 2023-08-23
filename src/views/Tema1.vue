@@ -21,7 +21,7 @@
 
     h3.titulo-tercero(data-aos='fade-right') Importancia de los clientes para las empresas
 
-    p En conformidad al concepto de cliente, a continuación se presentan los principales aspectos que evidencian la importancia de este para las empresas:
+    p En conformidad al concepto de cliente, a continuación, se presentan los principales aspectos que evidencian la importancia de este para las empresas:
 
     .row.justify-content-center.my-5
       .col-lg-4.my-5(data-aos="fade-right")
