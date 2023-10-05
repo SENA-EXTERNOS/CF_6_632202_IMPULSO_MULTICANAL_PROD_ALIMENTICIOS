@@ -242,7 +242,8 @@
             | Asegúrese de pasarla solo si el interlocutor responde.
           li 
             i.fas.fa-check.color-vineta2
-            | Si no responde, informe al cliente, tome los datos de contacto, envíe un e-mail al responsable de atenderla, genere el caso y comuníquelo al cliente.
+            p Si no responde, informe al cliente, tome los datos de contacto, envíe un #[em e-mail] al responsable de atenderla, genere el caso y comuníquelo al cliente.
+
 
         h4.mt-4 Despedida
         p.ps-4 Características:
