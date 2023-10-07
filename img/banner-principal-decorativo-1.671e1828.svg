@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56.851" height="56.851" viewBox="0 0 56.851 56.851">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.888" y1="-0.207" x2="0.259" y2="0.938" gradientUnits="objectBoundingBox">
+      <stop offset="0.427" stop-color="#fff"/>
+      <stop offset="0.57" stop-color="#f0f0f0"/>
+      <stop offset="0.84" stop-color="#cbcbcb"/>
+      <stop offset="1" stop-color="#b3b3b3"/>
+    </linearGradient>
+    <filter id="Elipse_7055" x="0" y="0" width="56.851" height="56.851" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#f37a00" flood-opacity="0.639"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_167079" data-name="Grupo 167079" transform="translate(12512.857 12640.214)">
+    <circle id="Elipse_4717" data-name="Elipse 4717" cx="1.386" cy="1.386" r="1.386" transform="translate(-12487.204 -12629.998)" fill="#fefefe"/>
+    <circle id="Elipse_4718" data-name="Elipse 4718" cx="1.386" cy="1.386" r="1.386" transform="translate(-12487.204 -12611.394)" fill="#fefefe"/>
+    <g transform="matrix(1, 0, 0, 1, -12512.86, -12640.21)" filter="url(#Elipse_7055)">
+      <circle id="Elipse_7055-2" data-name="Elipse 7055" cx="16.425" cy="16.425" r="16.425" transform="translate(12 8)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
